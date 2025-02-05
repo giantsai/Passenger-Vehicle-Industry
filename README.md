@@ -43,6 +43,9 @@ This project provides a data-driven analysis of the **passenger vehicle industry
 - **SQL** (Database Queries for Market Insights)
 - **Excel** (KPI Calculations & Data Processing)
 
+<img width="1512" alt="Screenshot 2025-02-05 at 4 03 56 PM" src="https://github.com/user-attachments/assets/cf93fe62-9120-4dad-8fa8-19410d5a0499" />
+
+
 ## Results & Insights
 - **Identified key growth regions** for expansion in the automotive industry.
 - **Mapped consumer preferences** based on fuel efficiency and vehicle performance.
