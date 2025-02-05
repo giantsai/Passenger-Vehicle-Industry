@@ -33,7 +33,7 @@ This project provides a data-driven analysis of the **passenger vehicle industry
 - **EV Industry Impact**: Tesla’s influence on traditional automakers.
 
 ## Data Sources
-- [Kaggle: Number of Sold Cars by Country](https://www.kaggle.com/datasets/abdelmalektamim/number-of-sold-cars-by-country-by-year)
+- [Passenger Vehicle Industry Dataset (GitHub)](https://github.com/giantsai/Passenger-Vehicle-Industry/blob/main/Automobile%202.csv)
 - [Focus2Move & Statista Automotive Reports](https://www.focus2move.com)
 - [Electric Vehicle Population Dataset](https://www.kaggle.com/datasets/rajkumarpandey02/electric-vehicle-population-data)
 
