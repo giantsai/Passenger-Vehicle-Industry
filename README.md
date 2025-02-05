@@ -1,26 +1,52 @@
 # Global Transformation of the Passenger Vehicle Industry
 
 ## Overview
-Conducted market analysis on automotive trends to identify business expansion opportunities.
+This project provides a data-driven analysis of the **passenger vehicle industry**, focusing on **global car sales, luxury market trends, fuel efficiency, and Tesla’s growth trajectory**. The study aims to identify **emerging market opportunities, competitive dynamics, and key performance indicators (KPIs)** that shape the automotive sector.
 
-Developed competitive analysis reports, highlighting emerging market growth areas for investment.
+## Objectives
+- Analyze **global and regional car sales trends**.
+- Examine **luxury market performance and consumer preferences**.
+- Assess **fuel efficiency metrics** and their impact on market trends.
+- Evaluate **Tesla’s growth trajectory** and its impact on the EV industry.
+- Develop **interactive Tableau visualizations** to present key insights.
 
-Analyzed the product life cycle of vehicles in the U.S., presenting insights on depreciation, consumer preferences, and regional demand shifts.
+## Key Performance Indicators (KPIs)
+### **Global Car Sales Trends**
+- **Market Share by Manufacturer**: Toyota, Volkswagen, and Honda remain the top global players.
+- **YoY Sales Growth (%)**: Identified regions with high potential for expansion.
+- **Regional Market Comparison**: Insights into **Asia, Europe, and North America**.
+- **Macroeconomic Influences**: Impact of **GDP growth, inflation, and consumer confidence**.
 
-Recommended strategic growth areas based on data-driven insights, aligning with economic and technological trends.
+### **Luxury Market Performance**
+- **Luxury Segment Growth Rate**: Evaluating premium car sales trends.
+- **Consumer Preferences**: Identifying key drivers for luxury car purchases.
+- **Competitive Positioning**: Benchmarking top brands in the high-end market.
 
-Conducted an in-depth analysis of car sales trends, identifying key growth drivers in the automotive sector.
+### **Fuel Efficiency & Market Demand**
+- **Average MPG (Miles per Gallon) by Vehicle Type**.
+- **Correlation Between Horsepower and Fuel Efficiency**: Higher horsepower vehicles show lower mileage.
+- **Impact on Consumer Choices**: Fuel-efficient models gaining traction in the U.S. market.
 
-Developed Tableau dashboards showcasing global car sales, luxury market insights, and Tesla's growth trajectory.
+### **Tesla’s Growth Trajectory**
+- **Year-over-Year (YoY) Sales Growth**.
+- **Market Penetration in Key Regions**.
+- **EV Industry Impact**: Tesla’s influence on traditional automakers.
 
-Analyzed relationships between horsepower, fuel efficiency, and consumer preferences, optimizing data visualization techniques.
-
-Provided actionable insights on emerging market opportunities and regional automotive performance.
-
-Analyzed the product life cycle of a car in the U.S., identifying trends in vehicle longevity, depreciation rates, and market demand shifts.
+## Data Sources
+- [Kaggle: Number of Sold Cars by Country](https://www.kaggle.com/datasets/abdelmalektamim/number-of-sold-cars-by-country-by-year)
+- [Focus2Move & Statista Automotive Reports](https://www.focus2move.com)
+- [Electric Vehicle Population Dataset](https://www.kaggle.com/datasets/rajkumarpandey02/electric-vehicle-population-data)
 
 ## Technologies Used
-- Python (Pandas, NumPy, Matplotlib)
-- Tableau (Data Visualization)
-- SQL (Data Queries)
-- Jupyter Notebook
+- **Python** (Data Analysis - Pandas, NumPy, Matplotlib)
+- **Tableau** (Interactive Data Visualization)
+- **SQL** (Database Queries for Market Insights)
+- **Excel** (KPI Calculations & Data Processing)
+
+## Results & Insights
+- **Identified key growth regions** for expansion in the automotive industry.
+- **Mapped consumer preferences** based on fuel efficiency and vehicle performance.
+- **Developed interactive Tableau dashboards** showcasing market trends and insights.
+- **Analyzed Tesla’s impact** on the **EV market and traditional automakers**.
+
+
